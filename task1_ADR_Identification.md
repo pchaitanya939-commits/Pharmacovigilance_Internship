@@ -41,4 +41,3 @@ Task 1: Adverse Drug Reaction (ADR) Identification Basics
    - Capture minimum required elements: Identifiable Patient, Identifiable Reporter, Suspected Drug, and Adverse Event.
    - Upload details via the **ADR PvPI Mobile App** or submit to the nearest ADR Monitoring Centre (AMC).
 
-
