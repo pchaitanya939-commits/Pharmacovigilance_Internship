@@ -1,0 +1,51 @@
+# Task 3: Causality Assessment Report
+
+## 1. Case Presentation & Timeline
+* **Suspected Medication:** Amoxicillin
+* **Adverse Event:** Cutaneous Maculopapular Skin Rash
+* **Temporal Relationship:** Symptoms emerged 3 days following the commencement of therapy.
+* **De-challenge Status:** Positive — The rash resolved after the suspected medication was discontinued.
+* **Re-challenge Status:** Not performed (ethical standard for hypersensitivity reactions).
+* **Concomitant Confounders:** None identified that offer a more plausible alternative cause.
+
+---
+
+## 2. WHO-UMC Causality Assessment
+
+| Criterion | Evaluation in Present Case |
+| :--- | :--- |
+| **Event / Laboratory Anomaly** | Yes, documented skin rash. |
+| **Plausible Time Relationship** | Yes, onset 3 days post-initiation fits standard drug-induced hypersensitivity latency. |
+| **Cannot Be Explained by Disease / Other Drugs** | Yes, underlying bacterial infection does not characteristically manifest as an isolated resolving urticarial/maculopapular rash. |
+| **Response to Withdrawal (De-challenge)** | Positive — Clear clinical improvement upon stopping the drug. |
+| **Re-challenge** | Not performed (precludes a "Certain" classification under strict WHO-UMC rules). |
+
+* **Final WHO-UMC Classification:** **PROBABLE / LIKELY**
+* **Reasoning:** A plausible temporal sequence exists, de-challenge was clinically positive, and concurrent disease or other medications do not explain the reaction. Because an intentional re-challenge was not conducted, it is classified as "Probable" rather than "Certain."
+
+---
+
+## 3. Naranjo Algorithm Scoring Matrix
+
+| # | Assessment Question | Response | Score |
+| :-: | :--- | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | Yes | +1 |
+| 2 | Did the adverse event appear after the suspected drug was administered? | Yes | +2 |
+| 3 | Did the adverse reaction improve when the drug was discontinued? | Yes | +1 |
+| 4 | Did the adverse event reappear when the drug was readministered? | Not Done | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | No | +2 |
+| 6 | Did the reaction appear when a placebo was given? | No / NA | 0 |
+| 7 | Was the drug detected in blood/body fluids in toxic concentrations? | Unknown | 0 |
+| 8 | Was the reaction more severe when dose was increased / less severe when decreased? | Unknown | 0 |
+| 9 | Did the patient have a similar reaction to the same or similar drugs? | Unknown | 0 |
+| 10 | Was the adverse event confirmed by objective evidence? | Yes | +1 |
+| **Total Score** | | | **+7** |
+
+* **Naranjo Conclusion:** A score of **7** falls in the range of 5–8, confirming a **PROBABLE** Adverse Drug Reaction.
+
+---
+
+## 4. Key Takeaways & Recommendations
+1. Document the event as an Amoxicillin-induced cutaneous drug reaction (Probable).
+2. Update the patient's medical record with an alert for beta-lactam / penicillin allergy.
+3. Submit the ICSR (Individual Case Safety Report) to the Pharmacovigilance Programme of India (PvPI).
