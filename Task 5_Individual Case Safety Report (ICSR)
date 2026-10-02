@@ -1,0 +1,56 @@
+# Task 5: End-to-End Individual Case Safety Report (ICSR) Assessment
+
+## 1. Executive Summary & Four Core ICSR Elements
+* **Identifiable Patient:** P. K., 32-year-old male, 68 kg.
+* **Identifiable Reporter:** Healthcare Professional / Pharmacovigilance Associate.
+* **Suspected Medicinal Product:** Amoxicillin 500 mg capsules.
+* **Adverse Event (AE):** Drug-induced maculopapular cutaneous hypersensitivity reaction.
+* **Case Validity:** Valid ICSR (meets all 4 mandatory regulatory criteria under ICH E2D).
+
+---
+
+## 2. Clinical Case Narrative
+A 32-year-old male patient with no previous known drug allergies was prescribed oral Amoxicillin 500 mg TID for an acute upper respiratory tract bacterial infection. 
+
+On Day 3 of therapy, the patient presented with generalized pruritus, followed by the eruption of an erythematous maculopapular rash across the trunk and upper extremities. Mucous membranes were unaffected, and there were no signs of respiratory distress, hemodynamic instability, or angioedema. 
+
+Amoxicillin was immediately stopped (de-challenge). The patient received symptomatic supportive treatment with oral Cetirizine (10 mg OD). The rash resolved completely within 72 hours of drug cessation. No drug re-challenge was conducted.
+
+---
+
+## 3. Case Triage, Seriousness & Expectedness Classification
+
+| Assessment Parameter | Outcome / Classification | Regulatory Justification |
+| :--- | :--- | :--- |
+| **Severity (Clinical)** | **Moderate** | Noticeable rash causing discomfort and requiring drug withdrawal and antihistamine intervention, but without systemic failure. |
+| **Seriousness (ICH E2A)** | **Non-Serious** | Did not result in death, life threat, inpatient hospitalization, persistent disability, congenital defect, or meet Important Medical Event (IME) criteria. |
+| **Expectedness** | **Expected** | Maculopapular cutaneous rash and allergic hypersensitivity are well-documented reactions in the Amoxicillin Summary of Product Characteristics (SmPC). |
+| **Regulatory Reporting Route** | **Periodic / Aggregate Safety Review** | As a non-serious, expected case, it does not mandate 7-day or 15-day expedited reporting; it is maintained in the company safety database for routine aggregate monitoring (PBRER/PSUR). |
+
+---
+
+## 4. Causality Assessment
+
+### A. WHO-UMC Scale Classification: **PROBABLE / LIKELY**
+* **Temporal Sequence:** Reasonable timeline from drug initiation (Day 3) to the onset of hypersensitivity.
+* **De-challenge:** Positive (rapid resolution upon discontinuation).
+* **Confounding Factors:** The primary disease (upper respiratory tract bacterial infection) does not account for this specific cutaneous reaction pattern.
+* **Re-challenge:** Not re-exposed.
+
+### B. Naranjo Algorithm Evaluation: Score = 7 (Probable)
+* Conclusive reports on reaction: +1
+* Adverse event appeared after drug intake: +2
+* Improvement upon de-challenge: +1
+* Lack of plausible alternative etiologies: +2
+* Objective clinical observation: +1
+* **Total Score:** +7 (5–8 confirms **Probable ADR**)
+
+---
+
+## 5. MedDRA Coding & Pharmacovigilance Action Plan
+* **Lowest Level Term (LLT):** Maculopapular rash
+* **Preferred Term (PT):** Rash maculo-papular
+* **System Organ Class (SOC):** Skin and subcutaneous tissue disorders
+* **Action Taken with Drug:** Drug withdrawn.
+* **Outcome of Event:** Recovered / Resolved.
+* **Safety Recommendation:** Update patient medical records with a verified penicillin-class allergy alert to prevent future cephalosporin/penicillin cross-reactivity. Enter case record into the safety database with MedDRA hierarchy and transmit electronically to national PvPI/CDSCO channels.
