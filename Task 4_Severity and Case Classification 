@@ -1,0 +1,46 @@
+# Task 4: ADR Severity, Seriousness & Expectedness Classification
+
+## 1. Regulatory Definitions (ICH E2A & CIOMS)
+
+* **Severity:** Refers to the intensity of a specific adverse event (Mild, Moderate, Severe). It is a clinical description, not a regulatory reporting criterion on its own.
+* **Seriousness:** A regulatory classification based on patient/event outcome. An adverse event (AE) or suspected adverse drug reaction (ADR) is classified as **Serious** if it:
+  1. Results in death
+  2. Is life-threatening
+  3. Requires inpatient hospitalization or prolongation of existing hospitalization
+  4. Results in persistent or significant disability/incapacity
+  5. Is a congenital anomaly / birth defect
+  6. Constitutes an important medical event (IME) that may jeopardize the patient or require intervention to prevent one of the outcomes above.
+* **Expectedness:** Determined by whether the nature, severity, or frequency of the adverse reaction is consistent with existing reference safety information (RSI), such as the Summary of Product Characteristics (SmPC) or Package Insert.
+
+---
+
+## 2. Multi-Case Classification Matrix
+
+| Case ID | Suspected Drug | Adverse Event / Clinical Presentation | Severity | Seriousness Classification (ICH E2A) | Expectedness (per Product Label / SmPC) | Regulatory Reporting Timeline |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Case 01** | Amoxicillin | Cutaneous maculopapular rash / itching | Moderate | **Non-Serious** (Resolved without hospitalization or disability) | **Expected** (Known and documented hypersensitivity profile) | Routine Periodic / Aggregate Reporting |
+| **Case 02** | NSAID / ACE Inhibitor | Severe acute reaction requiring inpatient hospitalization | Severe | **Serious** (Meets criteria: Inpatient Hospitalization) | **Expected / Unexpected** (Depending on labeled risk profile) | Expedited Reporting (within 15 calendar days) |
+| **Case 03** | Metformin | Lactic Acidosis (Metabolic emergency) | Severe | **Serious** (Life-threatening and requires urgent hospitalization / IME) | **Expected** (Documented rare boxed warning / SmPC contraindication) | Expedited Reporting (within 15 calendar days) |
+
+---
+
+## 3. Case Analysis & Clinical Impact
+
+### Case 01: Amoxicillin — Rash
+* **Clinical Evaluation:** Common immunologic reaction to aminopenicillins. Does not impair vital organ function.
+* **Regulatory Decision:** Non-serious, expected. Handled via standard documentation without requiring emergency unblinding or accelerated 7/15-day expedited reporting.
+
+### Case 02: Reaction Requiring Hospitalization
+* **Clinical Evaluation:** Any drug-related event escalating to admission marks a disruption in patient safety and healthcare burden.
+* **Regulatory Decision:** **Serious** under criterion 3 of ICH guidelines. Triggers mandatory expedited reporting to health authorities (such as CDSCO / PvPI / US FDA) within 15 calendar days.
+
+### Case 03: Metformin — Lactic Acidosis
+* **Clinical Evaluation:** Metformin-associated lactic acidosis (MALA) is a rare but life-threatening metabolic complication, especially prominent in renal impairment or hypoxic states.
+* **Regulatory Decision:** **Serious & Expected**. Because it is potentially fatal and requires emergency medical intervention, it meets the criteria for Life-Threatening / Hospitalization / IME. Expedited safety reporting is mandatory.
+
+---
+
+## 4. Summary of Pharmacovigilance Triage Actions
+1. **Immediate Seriousness Check:** All incoming ICSRs must be triaged within 24 hours to separate serious from non-serious cases.
+2. **Expedited Submissions:** Serious and unexpected suspected adverse reactions (SUSARs) require 7-day (fatal/life-threatening) or 15-day expedited reporting.
+3. **Signal Detection:** Periodic monitoring of non-serious, expected reports (like Case 01) is continued in aggregate safety reports (PBRER / PSUR) to monitor frequency shifts.
