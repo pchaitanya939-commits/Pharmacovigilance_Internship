@@ -1,51 +1,127 @@
-# Task 3: Causality Assessment Report
-
-## 1. Case Presentation & Timeline
-* **Suspected Medication:** Amoxicillin
-* **Adverse Event:** Cutaneous Maculopapular Skin Rash
-* **Temporal Relationship:** Symptoms emerged 3 days following the commencement of therapy.
-* **De-challenge Status:** Positive — The rash resolved after the suspected medication was discontinued.
-* **Re-challenge Status:** Not performed (ethical standard for hypersensitivity reactions).
-* **Concomitant Confounders:** None identified that offer a more plausible alternative cause.
-
----
-
-## 2. WHO-UMC Causality Assessment
-
-| Criterion | Evaluation in Present Case |
-| :--- | :--- |
-| **Event / Laboratory Anomaly** | Yes, documented skin rash. |
-| **Plausible Time Relationship** | Yes, onset 3 days post-initiation fits standard drug-induced hypersensitivity latency. |
-| **Cannot Be Explained by Disease / Other Drugs** | Yes, underlying bacterial infection does not characteristically manifest as an isolated resolving urticarial/maculopapular rash. |
-| **Response to Withdrawal (De-challenge)** | Positive — Clear clinical improvement upon stopping the drug. |
-| **Re-challenge** | Not performed (precludes a "Certain" classification under strict WHO-UMC rules). |
-
-* **Final WHO-UMC Classification:** **PROBABLE / LIKELY**
-* **Reasoning:** A plausible temporal sequence exists, de-challenge was clinically positive, and concurrent disease or other medications do not explain the reaction. Because an intentional re-challenge was not conducted, it is classified as "Probable" rather than "Certain."
-
----
-
-## 3. Naranjo Algorithm Scoring Matrix
-
-| # | Assessment Question | Response | Score |
-| :-: | :--- | :---: | :---: |
-| 1 | Are there previous conclusive reports on this reaction? | Yes | +1 |
-| 2 | Did the adverse event appear after the suspected drug was administered? | Yes | +2 |
-| 3 | Did the adverse reaction improve when the drug was discontinued? | Yes | +1 |
-| 4 | Did the adverse event reappear when the drug was readministered? | Not Done | 0 |
-| 5 | Are there alternative causes that could have caused the reaction? | No | +2 |
-| 6 | Did the reaction appear when a placebo was given? | No / NA | 0 |
-| 7 | Was the drug detected in blood/body fluids in toxic concentrations? | Unknown | 0 |
-| 8 | Was the reaction more severe when dose was increased / less severe when decreased? | Unknown | 0 |
-| 9 | Did the patient have a similar reaction to the same or similar drugs? | Unknown | 0 |
-| 10 | Was the adverse event confirmed by objective evidence? | Yes | +1 |
-| **Total Score** | | | **+7** |
-
-* **Naranjo Conclusion:** A score of **7** falls in the range of 5–8, confirming a **PROBABLE** Adverse Drug Reaction.
-
----
-
-## 4. Key Takeaways & Recommendations
-1. Document the event as an Amoxicillin-induced cutaneous drug reaction (Probable).
-2. Update the patient's medical record with an alert for beta-lactam / penicillin allergy.
-3. Submit the ICSR (Individual Case Safety Report) to the Pharmacovigilance Programme of India (PvPI).
+Task 3: Causality Assessment
+1. Introduction
+Causality assessment in pharmacovigilance is the process of evaluating whether an adverse event experienced by a patient is related to the use of a particular drug.
+The assessment considers factors such as:
+Time relationship between drug administration and adverse event
+Known association between the drug and reaction
+Improvement after stopping the drug (dechallenge)
+Recurrence after restarting the drug (rechallenge)
+Alternative causes
+Patient's medical history and concomitant medications
+The reaction can be classified as Certain, Probable, or Possible depending on the available evidence.
+2. Important Terms
+Dechallenge
+Dechallenge refers to the outcome of an adverse reaction after the suspected drug is stopped.
+Positive dechallenge: The adverse reaction improves or disappears after stopping the drug.
+Rechallenge
+Rechallenge refers to restarting the suspected drug after the adverse reaction has improved.
+Positive rechallenge: The same adverse reaction occurs again after restarting the drug.
+Alternative Cause
+An alternative cause is another disease, medication, infection, or condition that could explain the adverse reaction.
+3. Case Study 1 – Certain
+Patient Information
+Patient: 35-year-old female
+Suspected drug: Amoxicillin
+Indication: Bacterial infection
+Adverse reaction: Skin rash
+Case Description
+The patient started taking amoxicillin for a bacterial infection. Two days after starting treatment, she developed a generalized skin rash.
+Amoxicillin was discontinued, and the rash gradually disappeared within a few days. After recovery, the patient was accidentally exposed to amoxicillin again, and the same type of rash developed.
+Causality Assessment
+Criteria
+Assessment
+Reasonable time relationship
+Yes
+Known reaction
+Yes
+Positive dechallenge
+Yes
+Positive rechallenge
+Yes
+Alternative cause
+Not identified
+Classification: CERTAIN
+Reason
+There is a clear temporal relationship between amoxicillin administration and the rash. The reaction improved after discontinuation and reappeared after re-exposure. No reasonable alternative explanation was identified.
+4. Case Study 2 – Probable
+Patient Information
+Patient: 50-year-old male
+Suspected drug: Ibuprofen
+Indication: Pain and inflammation
+Adverse reaction: Gastric irritation
+Case Description
+The patient started taking ibuprofen for back pain. After three days of treatment, he developed stomach pain and gastric irritation.
+Ibuprofen was discontinued, and his symptoms improved over the following days. The patient was not rechallenged with ibuprofen.
+Causality Assessment
+Criteria
+Assessment
+Reasonable time relationship
+Yes
+Known reaction
+Yes
+Positive dechallenge
+Yes
+Positive rechallenge
+Not performed
+Alternative cause
+No significant alternative cause identified
+Classification: PROBABLE
+Reason
+The reaction occurred after starting ibuprofen and improved after discontinuation. The reaction is also a known adverse effect of NSAIDs. However, rechallenge was not performed, so the evidence is insufficient for a Certain classification.
+5. Case Study 3 – Possible
+Patient Information
+Patient: 60-year-old female
+Suspected drug: Metformin
+Indication: Type 2 diabetes
+Adverse reaction: Nausea
+Case Description
+The patient was taking metformin along with other medications. She developed nausea approximately one week after starting metformin.
+However, the patient also had a gastrointestinal infection during the same period. Metformin was continued, and the nausea gradually improved.
+Causality Assessment
+Criteria
+Assessment
+Reasonable time relationship
+Yes
+Known reaction
+Yes
+Positive dechallenge
+Not applicable
+Positive rechallenge
+Not performed
+Alternative cause
+Yes – gastrointestinal infection
+Classification: POSSIBLE
+Reason
+There is a reasonable temporal relationship between metformin and nausea, and nausea is a known adverse reaction. However, the patient had another possible cause for the symptoms, making the relationship uncertain.
+6. Comparison
+Feature
+Certain
+Probable
+Possible
+Time relationship
+Strong
+Reasonable
+Reasonable
+Dechallenge
+Usually positive
+Usually positive
+May be unknown
+Rechallenge
+Usually positive/strong evidence
+Usually not required
+Usually not available
+Alternative causes
+None
+Unlikely
+Present/possible
+Strength of relationship
+Very strong
+Strong
+Uncertain
+7. Conclusion
+Causality assessment is an important component of pharmacovigilance because it helps determine the likelihood that a drug caused an adverse reaction. The assessment should consider the time relationship, dechallenge, rechallenge, known drug reactions, and alternative causes.
+In the case studies:
+Amoxicillin → Skin rash → Certain
+Ibuprofen → Gastric irritation → Probable
+Metformin → Nausea → Possible
+Causality assessment should be based on the available clinical information and should not assume that every adverse event occurring during drug treatment was necessarily caused by the drug.
