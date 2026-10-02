@@ -1,56 +1,37 @@
-# Task 5: End-to-End Individual Case Safety Report (ICSR) Assessment
-
-## 1. Executive Summary & Four Core ICSR Elements
-* **Identifiable Patient:** P. K., 32-year-old male, 68 kg.
-* **Identifiable Reporter:** Healthcare Professional / Pharmacovigilance Associate.
-* **Suspected Medicinal Product:** Amoxicillin 500 mg capsules.
-* **Adverse Event (AE):** Drug-induced maculopapular cutaneous hypersensitivity reaction.
-* **Case Validity:** Valid ICSR (meets all 4 mandatory regulatory criteria under ICH E2D).
-
----
-
-## 2. Clinical Case Narrative
-A 32-year-old male patient with no previous known drug allergies was prescribed oral Amoxicillin 500 mg TID for an acute upper respiratory tract bacterial infection. 
-
-On Day 3 of therapy, the patient presented with generalized pruritus, followed by the eruption of an erythematous maculopapular rash across the trunk and upper extremities. Mucous membranes were unaffected, and there were no signs of respiratory distress, hemodynamic instability, or angioedema. 
-
-Amoxicillin was immediately stopped (de-challenge). The patient received symptomatic supportive treatment with oral Cetirizine (10 mg OD). The rash resolved completely within 72 hours of drug cessation. No drug re-challenge was conducted.
-
----
-
-## 3. Case Triage, Seriousness & Expectedness Classification
-
-| Assessment Parameter | Outcome / Classification | Regulatory Justification |
-| :--- | :--- | :--- |
-| **Severity (Clinical)** | **Moderate** | Noticeable rash causing discomfort and requiring drug withdrawal and antihistamine intervention, but without systemic failure. |
-| **Seriousness (ICH E2A)** | **Non-Serious** | Did not result in death, life threat, inpatient hospitalization, persistent disability, congenital defect, or meet Important Medical Event (IME) criteria. |
-| **Expectedness** | **Expected** | Maculopapular cutaneous rash and allergic hypersensitivity are well-documented reactions in the Amoxicillin Summary of Product Characteristics (SmPC). |
-| **Regulatory Reporting Route** | **Periodic / Aggregate Safety Review** | As a non-serious, expected case, it does not mandate 7-day or 15-day expedited reporting; it is maintained in the company safety database for routine aggregate monitoring (PBRER/PSUR). |
-
----
-
-## 4. Causality Assessment
-
-### A. WHO-UMC Scale Classification: **PROBABLE / LIKELY**
-* **Temporal Sequence:** Reasonable timeline from drug initiation (Day 3) to the onset of hypersensitivity.
-* **De-challenge:** Positive (rapid resolution upon discontinuation).
-* **Confounding Factors:** The primary disease (upper respiratory tract bacterial infection) does not account for this specific cutaneous reaction pattern.
-* **Re-challenge:** Not re-exposed.
-
-### B. Naranjo Algorithm Evaluation: Score = 7 (Probable)
-* Conclusive reports on reaction: +1
-* Adverse event appeared after drug intake: +2
-* Improvement upon de-challenge: +1
-* Lack of plausible alternative etiologies: +2
-* Objective clinical observation: +1
-* **Total Score:** +7 (5–8 confirms **Probable ADR**)
-
----
-
-## 5. MedDRA Coding & Pharmacovigilance Action Plan
-* **Lowest Level Term (LLT):** Maculopapular rash
-* **Preferred Term (PT):** Rash maculo-papular
-* **System Organ Class (SOC):** Skin and subcutaneous tissue disorders
-* **Action Taken with Drug:** Drug withdrawn.
-* **Outcome of Event:** Recovered / Resolved.
-* **Safety Recommendation:** Update patient medical records with a verified penicillin-class allergy alert to prevent future cephalosporin/penicillin cross-reactivity. Enter case record into the safety database with MedDRA hierarchy and transmit electronically to national PvPI/CDSCO channels.
+Individual Case Safety Report (ICSR) Assessment
+1. Administrative & Reporter Details
+Report Type: Spontaneous initial report
+Reporter Qualification: Physician (General Practitioner)
+Country: United States
+2. Patient Demographics & Baseline Information
+Patient Initials: J.D.
+Age / Gender: 54-year-old male
+Weight / Height: 82 kg / 178 cm
+Relevant Medical History: Type 2 Diabetes Mellitus (controlled), Hypertension
+Concomitant Medications: Metformin 500 mg BID, Lisinopril 10 mg QD
+3. Suspect Drug Details
+Suspect Medication: Amoxicillin/Clavulanic Acid
+Dose & Frequency: 875/125 mg orally twice daily
+Indication: Acute bacterial sinusitis
+Therapy Dates:
+Start: Day 1
+Stop: Day 4 (discontinued due to event)
+4. Adverse Event Description (MedDRA Coding)
+Reported Event: Severe generalized erythematous maculopapular rash, facial edema, and pruritus starting on Day 3 of therapy.
+MedDRA Lowest Level Term (LLT): Generalized maculopapular rash / Facial swelling
+MedDRA Preferred Term (PT): Drug eruption, Angioedema
+5. Seriousness & Severity Classification
+Severity: Severe (interfered significantly with normal daily function)
+Seriousness Criteria: Serious (Medically Significant — required urgent outpatient intervention and systemic corticosteroid administration to avoid progression/hospitalization)
+6. Dechallenge and Rechallenge
+Dechallenge: Positive. Symptoms improved significantly within 48 hours following discontinuation of Amoxicillin/Clavulanate and administration of Cetirizine and Dexamethasone.
+Rechallenge: Not performed (contraindicated due to risk of anaphylaxis).
+7. Causality Assessment (WHO-UMC & Naranjo Scale)
+Naranjo Algorithm Score: 6 (Probable)
+Established reaction history (+1)
+Event occurred after suspected drug administered (+2)
+Adverse event improved when drug was discontinued (+1)
+No alternative causes identified that solely explain the acute reaction (+2)
+WHO-UMC Causality Category: Probable / Likely (plausible time relationship, positive dechallenge, unlikely attributable to concurrent disease or other drugs).
+8. Drug Safety Narrative / Case Summary
+A 54-year-old male with a history of hypertension and diabetes developed a severe maculopapular rash accompanied by facial swelling on Day 3 of a course of Amoxicillin/Clavulanic Acid prescribed for acute bacterial sinusitis. The suspect drug was immediately withdrawn. Treatment with an oral antihistamine and systemic corticosteroid resulted in resolution of symptoms over the following two days. Based on chronological compatibility, known drug class safety profile, and positive dechallenge, the adverse event is classified as serious (medically significant) and probably drug-related.
